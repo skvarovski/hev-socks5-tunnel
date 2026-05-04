@@ -117,6 +117,8 @@ socks5:
 # password: 'password'
   # Socket mark
 # mark: 0
+  # TCP fastopen
+# tcp-fastopen: false
 
 #mapdns:
   # Mapped DNS address
@@ -383,6 +385,7 @@ void hev_socks5_tunnel_stats (size_t *tx_packets, size_t *tx_bytes,
 * **saeeddev94** - https://github.com/saeeddev94
 * **sskaje** - https://github.com/sskaje
 * **wankkoree** - https://github.com/wankkoree
+* **xiguagua** - https://github.com/xiguagua
 * **xz-dev** - https://github.com/xz-dev
 * **yiguous** - https://github.com/yiguous
 * **yujinpan** - https://github.com/yujinpan
